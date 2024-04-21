@@ -2,7 +2,7 @@ package beginner;
 
 import java.util.Scanner;
 
-public class Main {
+public class URI1001 {
 
 	public static void main(String[] args) {
 
