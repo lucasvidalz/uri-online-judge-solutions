@@ -20,5 +20,6 @@ public class URI1001 {
 		System.out.printf("X = %d%n", x);
 
 		input.close();
+		
 	}
 }
